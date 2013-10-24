@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>level.obj</file>
+        <file>SimpleBlock.png</file>
+        <file>BlackHole.jpg</file>
+        <file>bh_sprial.png</file>
+        <file>platform.obj</file>
+        <file>reflectionmap.png</file>
+        <file>white.png</file>
+        <file>flare.png</file>
+        <file>platformtex.png</file>
+        <file>pause_button.png</file>
+        <file>scorefont.png</file>
+        <file>shaders/bloks.fsh</file>
+        <file>shaders/bloks.vsh</file>
+        <file>shaders/blackhole.fsh</file>
+        <file>shaders/blackhole.vsh</file>
+    </qresource>
+</RCC>

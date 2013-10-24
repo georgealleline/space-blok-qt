@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainMenu.qml</file>
+        <file>MenuButton.qml</file>
+        <file>InfoView.qml</file>
+        <file>WinningScreen.qml</file>
+        <file>InGameMenu.qml</file>
+        <file>main_menu_bg.jpg</file>
+        <file>info_view_menu_bg.jpg</file>
+        <file>blok_title.png</file>
+        <file>back_button.png</file>
+        <file>menu_bg.png</file>
+        <file>winning_screen_bg.jpg</file>
+        <file>text_results.png</file>
+        <file>main_menu_blok.png</file>
+        <file>ball_1.png</file>
+        <file>ball_2.png</file>
+        <file>ball_3.png</file>
+        <file>ball_4.png</file>
+    </qresource>
+</RCC>

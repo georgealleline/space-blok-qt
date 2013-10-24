@@ -1,0 +1,15 @@
+spaceblok (1.2.0) stable; urgency=low
+  * Lot's of optimizations.
+
+ -- Forum Nokia <FN.Documentation@nokia.com>  Tue, 08 Nov 2011 09:37:51 +0200
+
+spaceblok (1.1.0) stable; urgency=low
+  * Symbian performance optimizations.
+
+ -- Forum Nokia <FN.Documentation@nokia.com>  Wed, 26 Oct 2011 10:59:30 +0300
+
+spaceblok (1.0.0) stable; urgency=low
+
+  * Initial Release.
+
+ -- Forum Nokia <FN.Documentation@nokia.com>  Wed, 19 Oct 2011 09:30:00 +0300
